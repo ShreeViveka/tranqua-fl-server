@@ -1,0 +1,16 @@
+# system files
+*.lnk
+desktop.ini
+
+# documents
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# virtual env
+venv/
+
+# logs
+*.log
